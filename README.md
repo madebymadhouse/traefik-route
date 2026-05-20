@@ -1,4 +1,8 @@
-# traefik-route
+![Traefik Route banner](assets/banner.svg)
+
+<a href="#install"><img src="assets/buttons/btn-install.svg" alt="Install" /></a>&nbsp;<a href="#usage"><img src="assets/buttons/btn-usage.svg" alt="Usage" /></a>&nbsp;<a href="#license"><img src="assets/buttons/btn-license.svg" alt="License" /></a>
+
+---
 
 A lean CLI for managing Traefik custom domain routes on Coolify-hosted servers.
 
